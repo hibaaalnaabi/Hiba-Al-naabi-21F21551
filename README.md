@@ -1,0 +1,1 @@
+The problem identified is laptop price prediction. Given a dataset that includes various features the problem is to predict the target value of a new laptop price when its feature values are provided to a pre-trained model.
